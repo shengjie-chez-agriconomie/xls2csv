@@ -1,0 +1,12 @@
+{
+    "name": "shengjieyu/agriconomie",
+    "require": {
+        "liuggio/ExcelBundle": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "shengjie-chez-agriconomie",
+            "email": "shengjie.yu@agriconomie.com"
+        }
+    ]
+}
